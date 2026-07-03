@@ -1,7 +1,28 @@
-# HTML-fundamentals-learning
+# HTML Fundamentals Learning
 
-A static website consisting of some basic html fundamentals I had learned during my time at St. Joseph Higher Secondary School either in the institute or independently.
+A collection of HTML exercises demonstrating fundamental web development concepts learned through coursework and independent practice.
 
-Each of the individual practicals are things learned in institute which included things like headers, font style, size and color manipulation, list, uniform and ununiform table, links and usage of language other then english.
+## Topics Covered
 
-Onto that I have added things like background image, image, link color manipulation. The central "Hub" page entirely and the background images and printing of the html code on the individual practical webpages were independent additions.
+- Headings
+- Text formatting
+- Lists
+- Tables
+- Hyperlinks
+- Images
+- Background images
+- Basic styling
+- Multilingual text
+
+## Repository Structure
+
+- **Practical Hub.html** – Landing page linking to each practical.
+- **repository/** – Individual practical exercises and supporting images.
+
+## Technologies
+
+- HTML5
+
+## Notes
+
+While the practical exercises were based on coursework, the central hub page, background images, code display, and several styling improvements were added independently to further explore HTML.
